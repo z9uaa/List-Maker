@@ -1,9 +1,8 @@
 import random
 import time
 import string
-import webbrowser
-print('Program By Flxr | Instagram : z9ua | Discord.gg/FFF')
-webbrowser.open_new('https://discord.gg/fff')
+print('Program By Flxr | Instagram : 1ee_')
+
 def g (w = 3):
     le = string.ascii_letters
     return ''.join((random.choice(le) for i in range(w)))
